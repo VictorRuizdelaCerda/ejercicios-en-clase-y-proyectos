@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Mi primer calculadora en node js",
+  "license": "ISC",
+  "author": "@victorrdelacerda",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node dev.js"
+  },
+  "dependencies": {
+    "inquirer": "^13.2.0"
+  }
+}
